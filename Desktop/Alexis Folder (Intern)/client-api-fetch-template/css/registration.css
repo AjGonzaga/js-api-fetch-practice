@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to left top, #4568dc 30%, #851e1e) fixed;
+}
+
+.center {
+    text-align: center;
+    color: #fff;
+}
